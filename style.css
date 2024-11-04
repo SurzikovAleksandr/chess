@@ -1,0 +1,22 @@
+#tb{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+#tbr2 tr td{
+    font-size: 6.75vw;
+}
+#tr1 td {
+width: 7.5vw;
+text-align: center;
+font-size: 7.5vw;
+
+}
+table tr {
+    height: 7.5vw;
+    width: 7.5vw;
+}
+#tb td {
+    height: 7.5vw;
+    width: 7.5vw;
+}
